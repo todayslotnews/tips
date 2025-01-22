@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://todayslotnews.github.io/tips/sitemap.xml
